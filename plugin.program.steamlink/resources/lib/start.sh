@@ -1,5 +1,5 @@
 #!/bin/bash
 
-/usr/bin/steamlink
+su pi -c /usr/bin/steamlink
 
 exit
